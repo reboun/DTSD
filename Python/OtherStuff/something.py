@@ -1,0 +1,5 @@
+def drawHeart():
+    print("!")
+
+
+drawHeart()
